@@ -10,7 +10,7 @@ addpath(strcat(pwd,'/MATLAB_scripts'))
 addpath(strcat(pwd,'/data'))
 figure()
 hold on
-
+print('hi world');
 script_1 %leaf patch
 
 script_2 %peach patch
